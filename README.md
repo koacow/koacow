@@ -50,7 +50,7 @@ Feel free to contact me if you have a project for which I could be a good fit!
 In addition to my academic studies at Boston University, I'm constantly learning through online courses, tutorials, and personal projects. Here are some resources that have been valuable to me:
 
 * [Codecademy](https://codecademy.com) 📚
-* [Web Dev Simplified]([https://example.com/tutorial](https://www.youtube.com/@WebDevSimplified)) 📺
+* [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified) 📺
 
 Feel free to recommend any resources you've found helpful!
 
