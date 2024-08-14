@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# [Khoa Cao](https://koacow.github.io)
+# My name is [Khoa Cao](https://koacow.github.io)
 
 **Computer Science student** (with an Economics minor) at Boston University passionate about **Fullstack Web Development** and exploring the possibilities of **Machine Learning**. 
 
