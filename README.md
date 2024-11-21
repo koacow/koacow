@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science student (with an Economics minor) at Boston University, passionate about Fullstack Web Development and exploring the possibilities of Machine Learning.<br><br>
+Computer Science student (with an Economics minor) at Boston University, passionate about making a difference.<br><br>
 
 
 ## 🌐 Socials:
