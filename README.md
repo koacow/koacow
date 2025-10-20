@@ -1,12 +1,16 @@
 # 💫 About Me:
 Computer Science student (with an Economics minor) at Boston University, passionate about making a difference.<br>Currently a Machine Learning Research Assistant at GLOB~S Lab at Boston University Questrom School of Business.
 
-## GLOB~S Business Strategy Lab
+## [GLOB~S Business Strategy Lab](https://globslab.org/)
 
 Due to the nature of our research and the rules surrounding publication journals, I am not allowed to showcase data, code samples, or outputs until the projects are approved by journals. These are the descriptions and my responsibilities in these projects:
 
 1. Disasters & Innovation
-
+- **Overview**: Individuals exhibit lower risk aversion and higher entrepeneurial tendencies when exposed to traumatic events, i.e. disasters. Utilizing patent-filing records in the U.S., this project aims to explore the effect of disasters on innovation levels.
+- **Responsibilities**:
+  - Compiled a large-scale panel dataset of U.S. geographical grids consisting of aggregated county-level control variables (demographics, economic indicators, rural-urban continuum codes, etc) from multiple census and disaster exposure metrics from 1980-2022
+  - Engineered Radical Innovation Measures using Cooperative Patent Classification codes to quantify innovation levels in grids
+  - Implemented Staggered Difference-in-Differences analyses in STATA (Sun & Abraham, 2020 & Callaway Sant'Anna, 2021) to assess the effects of disaster exposure and luck (disaster near-miss) on innovation levels.
 2. Bilateral Relations & Market Expansion
 
 3. Climate Risk & Labor Justice
