@@ -7,14 +7,28 @@ Due to the nature of our research and the rules surrounding publication journals
 
 1. Disasters & Innovation
 - **Overview**: Individuals exhibit lower risk aversion and higher entrepeneurial tendencies when exposed to traumatic events, i.e. disasters. Utilizing patent-filing records in the U.S., this project aims to explore the effect of disasters on innovation levels.
+- **Skills**: Python, Pandas, GeoPandas, REST APIs, SQL, Matplotlib, STATA
 - **Responsibilities**:
-  - Compiled a large-scale panel dataset of U.S. geographical grids consisting of aggregated county-level control variables (demographics, economic indicators, rural-urban continuum codes, etc) from multiple census and disaster exposure metrics from 1980-2022
+  - Compiled a large-scale panel dataset of U.S. geographical grids consisting of aggregated county-level control variables (demographics, economic indicators, rural-urban continuum codes, etc) from multiple census and disaster exposure metrics from 1980-2022.
   - Engineered Radical Innovation Measures using Cooperative Patent Classification codes to quantify innovation levels in grids
   - Implemented Staggered Difference-in-Differences analyses in STATA (Sun & Abraham, 2020 & Callaway Sant'Anna, 2021) to assess the effects of disaster exposure and luck (disaster near-miss) on innovation levels.
+  - Wrote comprehensive data documentation and summary statistics tables.
+
+  
 2. Bilateral Relations & Market Expansion
-
+- **Overview**: Sentiments between countries can affect where and how firms choose to expand, i.e. create subsidiaries. This project uses the GDELT 1.0 Event Database to quantify the sentiment between countries and explore their effects on firms' market expansion strategies.
+- **Skills**: Python, SQL, Google BigQuery, WebSockets, Cron Jobs, Bash Scripting, TypeScript, React, PostgreSQL
+- **Responsibilities**:
+- Compiled an aggregated bilateral sentiment panel dataset of 216 countries worldwide using Google BigQuery and SQL.
+  - Created a real-time visualization dashboard and REST API that displays near-real-time bilaterial sentiment between any two countries.
+  - Automated data fetching using WebSockets and Cron jobs
+ 
 3. Climate Risk & Labor Justice
-
+- **Overview**: In the presence of disasters, firms' resource levels decrease. The result is that workers in vulnerable demographic groups (non-white, non-male) are disproportionately affected by wage cuts compared to their non-vulnerable counterparts. This effect also differs by disaster intensity. This project aims to explore the effects of disaster exposure on wage disaparities in Brazilian firms.
+- **Skills**: Python, SQL, Pandas, GeoPandas, STATA
+- **Responsibilities**:
+  - Implemented Staggered Difference-in-Differences analyses in STATA (Sun & Abraham, 2020 & Callaway Sant'Anna, 2021) to assess the effects of disaster exposure income disparities between vulnerable and non-vulnerable groups.
+  - Wrote comprehensive data documentation and summary statistics tables.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/kcao04) 
 [![LeetCode](https://img.shields.io/npm/v/leetcode.svg?logo=leetcode&label=LeetCode&logoColor=white)](https://leetcode.com/u/koacow/)
