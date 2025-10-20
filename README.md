@@ -1,6 +1,15 @@
 # 💫 About Me:
 Computer Science student (with an Economics minor) at Boston University, passionate about making a difference.<br>Currently a Machine Learning Research Assistant at GLOB~S Lab at Boston University Questrom School of Business.
 
+## GLOB~S Business Strategy Lab
+
+Due to the nature of our research and the rules surrounding publication journals, I am not allowed to showcase data, code samples, or outputs until the projects are approved by journals. These are the descriptions and my responsibilities in these projects:
+
+1. Disasters & Innovation
+
+2. Bilateral Relations & Market Expansion
+
+3. Climate Risk & Labor Justice
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/kcao04) 
