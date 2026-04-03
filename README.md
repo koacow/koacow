@@ -3,7 +3,7 @@ Computer Science student (with an Economics minor) at Boston University, passion
 
 ## Research Projects
 
-Check out some of my research projects at my lab's Github, [![Glob-s](https://www.github.com/Glob-s), and on the lab's [![website](https://www.globslab.org)
+Check out some of my research projects at my lab's Github, [![Glob-s](https://www.github.com/Glob-s)], and on the lab's [![website](https://www.globslab.org)]
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/kcao04) 
